@@ -1,0 +1,17 @@
+DB_HOST=db
+DB_PORT=1221
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASS=glebru151001
+
+REDIS_HOST=redis
+REDIS_PORT=5370
+
+SECRET_AUTH=SECRET
+
+SMTP_USER=matgr2n@gmail.com
+SMTP_PASSWORD=omxeicztwfmrjhbi
+
+POSTGRES_DB=postgres
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
